@@ -21,11 +21,13 @@
     "brain-games": "./bin/brain-games.js"
   },
   "dependencies": {
+    "@hexlet/pairs": "^1.0.14",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.1",
     "g": "^2.0.1",
+    "global": "^4.4.0",
     "link": "^0.1.5",
     "readline-sync": "^1.4.10"
   }
