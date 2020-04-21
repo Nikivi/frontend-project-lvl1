@@ -6,6 +6,8 @@ calc:
 	npx node bin/brain-calc.js
 gcd:
 	npx node bin/brain-gcd.js
+progression:
+	npx node bin/brain-progression.js
 lint:
 	npx eslint .
 publish:
