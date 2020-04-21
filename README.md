@@ -22,3 +22,7 @@
 
 [![asciicast](https://asciinema.org/a/5WH00i8LmwmWYZ6iISjK3PZvJ.svg)](https://asciinema.org/a/5WH00i8LmwmWYZ6iISjK3PZvJ)
 
+### Brain Prime
+
+[![asciicast](https://asciinema.org/a/gD6IzyFmbB8dTJ5TLOLOXj2Vk.svg)](https://asciinema.org/a/gD6IzyFmbB8dTJ5TLOLOXj2Vk)
+
